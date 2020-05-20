@@ -8,5 +8,5 @@ This is a crowdsourced collection of learning resources.
 
 ## How to enrich our collection
 1. Leave a comment with if you've used the resource before, to help others make a better decision before investing time in it.
-1. Leave a reaction (emoji button next to the issue title), as that can be used to sort the listing too.
+1. Leave a reaction (emoji button at the top-right of the first comment), as that can be used to sort the listing too.
 1. Update the labels to improve searchability too.
